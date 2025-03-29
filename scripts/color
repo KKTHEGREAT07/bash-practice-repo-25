@@ -9,9 +9,6 @@ color() {
 declare -A color_mapping=(
     # TODO: Add more color values
     # Refer bash color codes
-    ['red']=31
-    ['green']=32
-    ['blue']=34
     ['magenta']=35
 )
 
